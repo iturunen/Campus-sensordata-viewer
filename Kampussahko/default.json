@@ -1,0 +1,35 @@
+{
+     "analysis": {
+        "meterX": "",
+        "meterY": "",
+        "axisTitleX": "",
+        "axisTitleY": "",
+         "meanX": "",
+         "meanY": "",
+         "correlation": "",
+         "startHours": "10",
+         "endHours": "23",
+         "startMinutes": "15",
+         "endMinutes": "59",
+         "startDate": "",
+         "endDate": "",
+        "factorX":"",
+        "factorY":"",
+        "minY":"",
+        "maxY":"",
+        "minX":"",
+        "maxX":""
+
+    },
+     "main": {
+        "selectedQuantities": ["true", "true", "true", "true"],
+        "selectedMeters": ["0", "0", "0", "0"],
+        "images": ["qrc:/Images/sun.png", "qrc:/Images/energy.png", "qrc:/Images/cooler.png", "qrc:/Images/temperature.png"],
+        "meterStyle": ["0", "analog"],
+        "updateFrequency": "10"
+    },
+     "history": {
+         "selectedQuantities": ["true", "true", "true", "true"],
+         "selectedMeters": ["0", "0", "0", "0"]
+    }
+}

@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>QuantityPicker.qml</file>
+        <file>QuantityList.qml</file>
+        <file>DatePicker.qml</file>
+        <file>Images/sun.png</file>
+        <file>Images/cooler.png</file>
+        <file>Images/energy.png</file>
+        <file>Images/temperature.png</file>
+        <file>QuantityListModels.qml</file>
+        <file>MainPage/MainPage.qml</file>
+        <file>MainPage/Meter.qml</file>
+        <file>MainPage/MeterList.qml</file>
+        <file>MainPage/QuantitySettings.qml</file>
+        <file>main.qml</file>
+        <file>default.json</file>
+        <file>AnalysisPage/AnalysisButton.qml</file>
+        <file>AnalysisPage/AnalysisPage.qml</file>
+        <file>AnalysisPage/AnalysisUpdater.qml</file>
+        <file>AnalysisPage/DataGraph.qml</file>
+        <file>AnalysisPage/QuantityListAnalysis.qml</file>
+        <file>AnalysisPage/QuantityPickerAnalysis.qml</file>
+        <file>AnalysisPage/ErrorMessage.qml</file>
+        <file>AnalysisPage/DatePicker.qml</file>
+        <file>HistoryPage/ChartList.qml</file>
+        <file>HistoryPage/ChartTemplate.qml</file>
+        <file>HistoryPage/HistoryPage.qml</file>
+    </qresource>
+</RCC>
